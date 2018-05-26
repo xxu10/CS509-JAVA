@@ -1,3 +1,4 @@
 # CS509-JAVA
-Airline Booking System\n
+Airline Booking System
+
 src/driver/Driver.java is the entrance of the program
